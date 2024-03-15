@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Blockchain/optimization/l9_optimization_smart_contract_gaz.sol": "Un"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Blockchain/optimization/l9_optimization_smart_contract_gaz.sol": {
+			"keccak256": "0x32cd230625cc86f8fe26c31d5d1c82e9a637c8bdf6ff7a301c27a1c7e486ef62",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2cbacf58a8b8da28b4cc1438a56cc6c4a936bab1a14052ca3254aae9a5ee3056",
+				"dweb:/ipfs/QmSJNw4qdN1CDeEaFCtLxvQxZSPkmtZgbrsz6Vz8xLTAAt"
+			]
+		}
+	},
+	"version": 1
+}
